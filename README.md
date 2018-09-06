@@ -1,4 +1,4 @@
-# zerobad
+# Zero Bad Deodorant
 Deodorant That Isn’t A Chemistry Experiment
 
 ## ALUMINUM FREE

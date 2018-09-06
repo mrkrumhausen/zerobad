@@ -1,5 +1,7 @@
 # Zero Bad Deodorant
-Deodorant that isn’t a chemistry experiment
+Deodorant that isn’t a chemistry experiment. 
+
+**If you are interested please send us an <a target="_blank" href="mailto:krumhausen+zerobad@gmail.com?subject=Hi">email</a>**
 
 
 
@@ -18,4 +20,4 @@ We tested thousands of ingredients before finding a recipe that feels light and 
 Zero Bad Deodorant is a solid deodorant that you can apply easily. Since the deodorant doesn’t contain aluminum, it won’t stain your clothes.
 
 ## 👉 BUY
-**if you're interested please send us an <a target="_blank" href="mailto:krumhausen+zerobad@gmail.com?subject=Hi">email</a>.**
+**if you're interested please send us an <a target="_blank" href="mailto:krumhausen+zerobad@gmail.com?subject=Hi">email</a>**

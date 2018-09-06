@@ -1,5 +1,9 @@
 # Zero Bad Deodorant
-Deodorant That Isn’t A Chemistry Experiment
+Deodorant that isn’t a chemistry experiment
+
+
+
+![Deoderant](./assets/deodorant.jpg)
 
 ## ALUMINUM FREE
 Zero Bad Deodorant isn’t a chemistry experiment, and is made without aluminum, parabens, phthalates, and talc.
@@ -13,5 +17,5 @@ We tested thousands of ingredients before finding a recipe that feels light and 
 ## GOES ON EASY
 Zero Bad Deodorant is a solid deodorant that you can apply easily. Since the deodorant doesn’t contain aluminum, it won’t stain your clothes.
 
-## Buy
+## 👉 BUY
 **if you're interested please send us an <a target="_blank" href="mailto:krumhausen+zerobad@gmail.com?subject=Hi">email</a>.**
